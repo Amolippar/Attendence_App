@@ -1,0 +1,13 @@
+backup.sql
+application/logs
+/vendor/
+application/config/database.php
+index.php
+/node_modules/
+log.txt
+uploads/faces/*.jpg
+uploads/fingerprints/*.fpt
+composer-setup.php
+composer.phar
+/cache/
+.aider*
